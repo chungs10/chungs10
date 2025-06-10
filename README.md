@@ -15,11 +15,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Shun Hang Raphael Chung ( Call me Raphael )! 👩‍💻  
+# Shun Hang Raphael Chung 👩‍💻  
 
 **Full-Stack Developer | Security Analyst**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/raphael-chung75/)  
+
+Hi, I'm Raphael.
+
+🎓 Academic Background
+
+Soon-to-be MSc in Artificial Intelligence student at The Chinese University of Hong Kong (CUHK).
+
+Bachelor’s in Information Technology & Web Science (Specialization: Information Security) from Rensselaer Polytechnic Institute (RPI).
+
+🚀 Current Focus
+
+Sharpening my C++ and Python skills for AI/ML development.
+
+Experimenting with LLMs (Large Language Models) to build task automation tools.
+
+Exploring AI-driven applications and open-source contributions.
+
+🌱 Interests
+
+AI/ML Engineering | LLM Applications | Automation | Information Security
+
+Let’s connect and collaborate!
 
 <!--
 ## 👩‍💻 About Me  
