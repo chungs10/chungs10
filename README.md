@@ -1,62 +1,48 @@
+# 👋 Hi, I'm Raphael Chung
 
+**AI Security Researcher | Building robust and secure ML systems**
 
-<!--
-## Hi there 👋
-**chungs10/chungs10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/raphael-chung75/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:raphael.chung.sh@gmail.com)
 
-Here are some ideas to get you started:
+I'm a developer and researcher focused on the intersection of **AI and Cybersecurity**. I'm currently working on my MSc in AI at CUHK, specializing in **Adversarial Machine Learning** and **AI Security**. I enjoy turning theoretical security concepts into practical tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Shun Hang Raphael Chung 👩‍💻  
+🔭 **I’m currently exploring:** Model hardening techniques, LLM security, and software supply chain security for AI.
 
-**Full-Stack Developer | Security Analyst**  
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/raphael-chung75/)  
+### 🛠️ Tech Stack
 
-Hi, I'm Raphael.
+**🤖 AI & ML:** PyTorch | Scikit-learn | Adversarial Robustness | LLMs
+**🔐 Security:** Threat Modeling | Vulnerability Assessment | NIST Frameworks | OSINT
+**💻 Languages:** Python | C | Bash | PowerShell
+**☁️ Cloud & Infra:** AWS | GCP | Azure | Docker | Kubernetes
 
-🎓 Academic Background
+---
 
-Soon-to-be MSc in Artificial Intelligence student at The Chinese University of Hong Kong (CUHK).
+### 🔭 Featured Projects
 
-Bachelor’s in Information Technology & Web Science (Specialization: Information Security) from Rensselaer Polytechnic Institute (RPI).
+[**Project Name**](https://github.com/your-username/repo-name)  
+*A brief description of what the project does, the problem it solves, and a key result (e.g., "Achieved <0.5% error rate on noisy scans").*  
+`Python` `OpenCV` `Tesseract` `PyTorch`
 
-🚀 Current Focus
+[**NCL Challenge Solutions**](https://github.com/your-username/ncl-solutions)  
+*A collection of scripts and write-ups for challenges from the National Cyber League competition.*  
+`Python` `Wireshark` `Cryptography` `Forensics`
 
-Sharpening my C++ and Python skills for AI/ML development.
+*(Pro Tip: Create repos for these if you haven't already! Even if it's just cleaned-up code samples with good documentation.)*
 
-Experimenting with LLMs (Large Language Models) to build task automation tools.
+---
 
-Exploring AI-driven applications and open-source contributions.
+### 🏆 Achievements
 
-🌱 Interests
+-   **National Cyber League (Fall 2023):** Top 5% Team (95th Percentile) | Top 15% Individual
+-   **CompTIA Security+ Certified** (SY0-701)
 
-AI/ML Engineering | LLM Applications | Automation | Information Security
+---
 
-Let’s connect and collaborate!
+### 📫 Let's Connect
 
-<!--
-## 👩‍💻 About Me  
-- 🌱 Currently learning **A.I Development**. 
-- 💬 Ask me about **React, Python, or career growth**.  
-- ⚡ Fun fact: I’ve visited 15 countries!  
+I'm always open to discussing **AI security, collaboration on open-source projects, or new research opportunities**.
 
-## 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-
-## 📊 GitHub Stats  
-![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true)  
-
-## 📫 Let's Chat!  
-- 📧 **hi@janedoe.dev**  
-- 🌐 [My Portfolio](https://janedoe.dev)  
--->
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/raphael-chung75/) or via [email](mailto:raphael.chung.sh@gmail.com).
