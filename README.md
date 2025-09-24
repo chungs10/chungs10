@@ -13,10 +13,9 @@ Security-focused developer specializing in AI security and adversarial machine l
 
 ### 🛠️ Tech Stack
 
-**Languages:** `Python` | `C` | `Bash` | `PowerShell` | `SQL`
-**AI/ML:** `PyTorch` | `TensorFlow` | `Scikit-learn` | `OpenCV` | `LangChain`
-**Security Tools:** `Nmap` | `Wireshark` | `Burp Suite` | `Metasploit` | `OWASP ZAP`
-**Cloud & DevOps:** `AWS` | `Docker` | `Kubernetes` | `Terraform` | `GitLab CI/CD`
+**Languages:** `Python` | `C` 
+**AI/ML:** `PyTorch` | `TensorFlow` | `Scikit-learn` 
+**Cloud & DevOps:** `AWS` | `Docker` | `Kubernetes`
 
 ---
 
