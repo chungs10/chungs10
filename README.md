@@ -15,7 +15,7 @@ Security-focused developer specializing in AI security and adversarial machine l
 
 **Languages:** `Python` | `C` 
 **AI/ML:** `PyTorch` | `TensorFlow` | `Scikit-learn` 
-**Cloud & DevOps:** `AWS` | `Docker` | `Kubernetes`
+**Cloud & DevOps:** `AWS` | `Docker` 
 
 ---
 
