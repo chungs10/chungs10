@@ -71,4 +71,4 @@ I'm always open to discussing:
 - **AI security** and adversarial machine learning challenges
 - **Technical reviews** and security architecture discussions
 
-Reach out via [LinkedIn](https://linkedin.com/in/raphael-chung75) or [Email](raphael.chung.sh@gmail.com) 
+Reach out via [LinkedIn](https://linkedin.com/in/raphael-chung75) or Email: [raphael.chung.sh@gmail.com](mailto:raphael.chung.sh@gmail.com)
