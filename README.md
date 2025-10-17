@@ -35,34 +35,35 @@ CompTIA Security+ certified RPI graduate transitioning to AI Security through MS
 
 ### [Trusting Trust Compiler Exploit](https://github.com/chungs10/trusting-trust-tcc-exploit)
 **Systems Security** - Recreated Ken Thompson's seminal attack by modifying the TCC compiler
-- **Role:** Vulnerability research and exploit development
-- **Impact:** Successfully injected self-replicating backdoors undetectable in source code
-- **Tech:** C, compiler internals
+- **Role:** Architecture analysis and exploit development based on published concept
+- **Impact:** Authored comprehensive methodology and validated self-replicating backdoor functionality
+- **Tech:** C, compiler internals (libtcc) 
+- **Note:** Implementation completed based on Thompson's theoretical description before his specific technical approach was published
 
 ### [Cloud-IoT Security Research](https://github.com/chungs10/cloud-iot-security-paper)
 **Security Architecture** - Analyzed architectural vulnerabilities in cloud-connected IoT systems
 - **Role:** Threat modeling and security analysis
 - **Impact:** Authored A-grade research paper proposing defense models
 - **Tech:** Threat modeling, cloud security
+- **Note:** Research conducted collaboratively; security analysis and paper authored individually
 
 ### [SSL/TLS-like Protocol & Cryptanalysis](https://github.com/chungs10/ssl-bank-protocol)
-**Cryptography & Application Security** - Implemented and analyzed a custom banking protocol
-- **Role:** Protocol development and vulnerability assessment
-- **Impact:** Identified critical flaws including weak key space and hardcoded credentials
-- **Tech:** Python, RSA, S-DES, HMAC, cryptanalysis
-- **Note:** Educational implementation with intentionally weakened cryptography
+**Cryptography & Network Security** - Two-phase educational project implementing defensive protocol design and offensive security assessment
+- **Role:** Paired programming for protocol implementation and security assessment
+- **Impact:** Uncovered critical flaws including weak key space and hardcoded credentials in peer implementations
+- **Tech:** Python, RSA, S-DES, HMAC-SHA1, cryptanalysis
 
 ### [United Airlines Computer Vision Project](https://github.com/chungs10/fire-suppression-line-verifier)
-**Industry Application** - Developed a computer vision system for aircraft safety compliance
-- **Role:** Frontend architecture and system integration
-- **Impact:** Delivered functional prototype to United Airlines Innovation Lab
-- **Tech:** Python, Flask, JavaScript, computer vision
+**Industry Application** - Full-stack system using computer vision to automate aircraft safety compliance checks
+- **Role:** Frontend development and user interface design
+- **Impact:** Built and iteratively improved user interface based on stakeholder feedback, enabling successful demonstration
+- **Tech:** JavaScript, HTML, CSS, Bootstrap, UI/UX design
 
 ### [Rensselaer Cybersecurity Collaboratory](https://github.com/chungs10/rcc-platform)
-**Full-Stack Development** - Platform for RPI's cybersecurity lab with public website and CTF management
+**Web Platform** - Public website and CTF management system for RPI's cybersecurity lab with separate frontend/backend services
 - **Role:** Backend API and database architecture
-- **Impact:** Delivered functional backend service for student training
-- **Tech:** React, Node.js, MongoDB
+- **Impact:** Delivered functional backend service enabling student training and write-up management
+- **Tech:** Node.js, Express.js, MongoDB, RESTful API design
 
 ## Let's Connect
 
